@@ -1,0 +1,7 @@
+﻿  REdrunk.cpp
+C:\Users\KHV\source\repos\REdrunk\REdrunk\REdrunk.cpp(7,36): warning C4369: "ConsoleWrapper_t::ArrowsCode_t::None": значение перечислителя "255" не может быть представлено как "char", значение — "255"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  REdrunk.vcxproj -> C:\Users\KHV\source\repos\REdrunk\x64\Release\REdrunk.exe

@@ -1,0 +1,3 @@
+﻿  REdrunk.cpp
+C:\Users\KHV\source\repos\REdrunk\REdrunk\REdrunk.cpp(7,36): warning C4369: "ConsoleWrapper_t::ArrowsCode_t::None": значение перечислителя "255" не может быть представлено как "char", значение — "255"
+  REdrunk.vcxproj -> C:\Users\KHV\source\repos\REdrunk\x64\Debug\REdrunk.exe
